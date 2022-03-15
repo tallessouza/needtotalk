@@ -25,7 +25,7 @@ module.exports = {
                     pass
                 ) VAlUES (
                     ${parseInt(roomId)},
-                    ${pass}
+                    "${pass}"
                 )`)
       }
     }
